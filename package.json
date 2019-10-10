@@ -1,0 +1,14 @@
+{
+  "name": "cidade",
+  "version": "1.0.0",
+  "description": "Prova OOP",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./bin/index.js"
+  },
+  "author": "Márcio Meier",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
